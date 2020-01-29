@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pyjwt
+passlib
+pytz
+email-validator
+python-multipart
+pydantic
+bcrypt
+starlette
